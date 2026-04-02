@@ -19,7 +19,7 @@ Dataset: Dubex SUperstore Sales Profitability Analysis
 
 ## Steps Taken
 
-Data Familiarisation — Reviewed raw dataset structure, fields, and data types across 400+ transactions
+### Data Familiarisation — Reviewed raw dataset structure, fields, and data types across 400+ transactions
 
 Data Cleaning — Standardised date formats, checked for nulls, and ensured consistency across columns
 
