@@ -52,18 +52,8 @@ High caffeine intake appeared linked to fatigue management rather than productiv
 Sleep distribution across academic levels was relatively balanced, but not optimal, hinting at widespread rest inefficiencies
 
 
-**Features of the Dashboard**
+**Conclusion**
 
-The dashboard includes:
+This project demonstrates that productivity is not simply a function of time available, but of how time is allocated. By analyzing student behavior through data, we can better understand the trade-offs between focus and distraction.
 
-Top 10 students ranked by self-study hours
-
-Academic-level comparison of sleep duration
-
-Identification of students with the highest gaming, screen time, and caffeine consumption
-
-Visualization of top productive students using a treemap
-
-Social media usage rankings to highlight digital behavior patterns
-
-These visual elements enable quick identification of trends and outliers, making the data both accessible and insightful.
+Ultimately, the dashboard serves as both an analytical tool and a reflective framework—encouraging students, educators, and stakeholders to rethink how daily habits shape long-term outcomes.
