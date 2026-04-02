@@ -44,7 +44,7 @@ Detect potential trade-offs between focus (study) and distraction (screen time, 
 Provide insights that can support better time management decisions
 
 
-**Key Insights**
+## Key Insights
 
 The dashboard revealed several meaningful trends:
 
@@ -59,7 +59,7 @@ High caffeine intake appeared linked to fatigue management rather than productiv
 Sleep distribution across academic levels was relatively balanced, but not optimal, hinting at widespread rest inefficiencies
 
 
-**Conclusion**
+## Conclusion
 
 This project demonstrates that productivity is not simply a function of time available, but of how time is allocated. By analyzing student behavior through data, we can better understand the trade-offs between focus and distraction.
 
