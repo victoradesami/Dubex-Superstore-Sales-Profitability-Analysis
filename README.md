@@ -19,17 +19,17 @@ Dataset: Dubex SUperstore Sales Profitability Analysis
 
 ## Steps Taken
 
-#### Data Familiarisation — Reviewed raw dataset structure, fields, and data types across 400+ transactions
+**Data Familiarisation** — Reviewed raw dataset structure, fields, and data types across 400+ transactions
 
-Data Cleaning — Standardised date formats, checked for nulls, and ensured consistency across columns
+**Data Cleaning** — Standardised date formats, checked for nulls, and ensured consistency across columns
 
-Pivot Table Analysis — Built pivot tables for each analysis area: sales trend, rep performance, regional split, product categories, top customers, and city/state performance
+**Pivot Table Analysis** — Built pivot tables for each analysis area: sales trend, rep performance, regional split, product categories, top customers, and city/state performance
 
-Dashboard Design — Designed an interactive dashboard with slicers, KPI summary cards, and 7 chart types
+**Dashboard Design** — Designed an interactive dashboard with slicers, KPI summary cards, and 7 chart types
 
 
 
-**Objectives**
+## Objectives
 
 The primary goals of this project were to:
 
