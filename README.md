@@ -3,9 +3,9 @@
 ## Project overview
 This project analyzes sales and profitability performance for Dubex Superstore. The goal is to uncover key business insights across regions, products, customers, and time to support data-driven decision-making.
 
-The dashboard provides a comprehensive view of:
+**The dashboard provides a comprehensive view of:**
 
-Sales performance by salesperson, region, and product category
+-  Sales performance by salesperson, region, and product category
 Revenue distribution across U.S. states
 Monthly sales trends and seasonality
 Customer and shipping insights
