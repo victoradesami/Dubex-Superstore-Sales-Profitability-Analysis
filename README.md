@@ -17,3 +17,8 @@ It is designed to help stakeholders quickly identify high-performing areas and o
 Top-performing salesperson: Nancy Freehafer (~104K revenue)
 Lowest-performing salesperson: Jan Kotas (~16K revenue)
 Strong variation in individual sales performance suggests uneven distribution of opportunities or efficiency
+
+
+## Conclusion
+
+This analysis highlights key revenue drivers, seasonal patterns, and performance gaps across the business. By leveraging these insights, Dubex Superstore can optimize sales strategies, improve operational efficiency, and drive sustained growth.
