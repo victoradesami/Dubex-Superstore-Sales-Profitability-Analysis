@@ -22,6 +22,7 @@ Pivot Table Analysis — Built pivot tables for each analysis area: sales trend,
 Dashboard Design — Designed an interactive dashboard with slicers, KPI summary cards, and 7 chart types
 
 
+
 **Objectives**
 
 The primary goals of this project were to:
