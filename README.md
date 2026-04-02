@@ -8,7 +8,7 @@ In today’s digital-first environment, students are constantly balancing academ
 The Student Productivity Analysis Dashboard provides a data-driven view of these behaviors, transforming raw data into actionable insights.
 
 
-**Tools**
+## Tools
 
 Microsoft Excel (Pivot Tables, Charts, Dashboard)
 Type: Exploratory Data Analysis + Dashboard Design
@@ -17,7 +17,7 @@ Dataset: Dubex SUperstore Sales Profitability Analysis
 
 
 
-**Steps Taken**
+## Steps Taken
 
 Data Familiarisation — Reviewed raw dataset structure, fields, and data types across 400+ transactions
 
