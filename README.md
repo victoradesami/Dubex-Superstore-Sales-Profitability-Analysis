@@ -1,7 +1,9 @@
 # Dubex Superstore Sales Profitability Analysis
 
 ## Project overview
-This project analyzes sales and profitability performance for Dubex Superstore. The goal is to uncover key business insights across regions, products, customers, and time to support data-driven decision-making.
+This project delivers solution for analyzing sales performance and profitability using a structured data model, calculated metrics, and interactive visualizations.
+
+The dashboard is designed to enable granular analysis across multiple dimensions including time, geography, customer segments and product categories.
 
 **The dashboard provides a comprehensive view of:**
 
@@ -13,11 +15,17 @@ This project analyzes sales and profitability performance for Dubex Superstore. 
 
 It is designed to help stakeholders quickly identify high-performing areas and opportunities for improvement.
 
-## Sales Performance
-Top-performing salesperson: Nancy Freehafer (~104K revenue)
-Lowest-performing salesperson: Jan Kotas (~16K revenue)
-Strong variation in individual sales performance suggests uneven distribution of opportunities or efficiency
+## Key Metrics 
 
+Core measures implemented:
+
+- Total Revenue
+- Total Profit
+- Sales by Category
+- Sales by Region (%)
+- Monthly Sales Trend
+- Top Customers by Revenue
+- Revenue by Salesperson
 
 ## Conclusion
 
